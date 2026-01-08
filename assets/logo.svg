@@ -1,0 +1,35 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main text SPECTRA -->
+    <text x="20" y="42" 
+          font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" 
+          font-size="36" 
+          font-weight="700" 
+          fill="#1a3a52" 
+          letter-spacing="2">SPECTRA</text>
+    
+    <!-- Waterline with hull arrowhead -->
+    <line x1="20" y1="56" x2="345" y2="56" 
+          stroke="#4a7c9e" 
+          stroke-width="2.5" 
+          stroke-linecap="round"/>
+    
+    <!-- Hull top view as arrowhead - refined geometric shape -->
+    <path d="M 345 56 L 365 48 L 375 56 L 365 64 Z" 
+          fill="#4a7c9e" 
+          stroke="#4a7c9e" 
+          stroke-width="1.5" 
+          stroke-linejoin="miter"/>
+    
+    <!-- Centerline of hull -->
+    <line x1="365" y1="56" x2="375" y2="56" 
+          stroke="#1a3a52" 
+          stroke-width="1.2"/>
+    
+    <!-- NAVAL text -->
+    <text x="20" y="82" 
+          font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" 
+          font-size="16" 
+          font-weight="400" 
+          fill="#4a7c9e" 
+          letter-spacing="4">NAVAL</text>
+</svg>

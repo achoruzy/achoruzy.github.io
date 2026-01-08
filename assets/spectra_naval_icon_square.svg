@@ -1,0 +1,21 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <!-- S letterform -->
+    <text x="10" y="55" 
+          font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" 
+          font-size="48" 
+          font-weight="700" 
+          fill="#1a3a52" 
+          letter-spacing="0">S</text>
+    
+    <!-- Hull integrated -->
+    <path d="M 52 38 L 65 32 L 72 38 L 65 44 Z" 
+          fill="#4a7c9e" 
+          stroke="#4a7c9e" 
+          stroke-width="1.5" 
+          stroke-linejoin="miter"/>
+    
+    <!-- Centerline -->
+    <line x1="65" y1="38" x2="72" y2="38" 
+          stroke="#1a3a52" 
+          stroke-width="1.2"/>
+</svg>
