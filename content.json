@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "title": "Spectra Naval | Marine Engineering Services - Poland, UK, Norway",
+    "description": "Spectra Naval - Senior marine engineering team specializing in ship design documentation, structural calculations, and on-site support for PSV, ferries, and offshore vessels. Serving Poland, UK, and Norway.",
+    "keywords": "marine engineering, ship design, production documentation, structural calculations, marine survey, PSV engineering, ferry design, ship refit, offshore vessel, shipyard support",
+    "ogTitle": "Spectra Naval | Marine Engineering Services",
+    "ogDescription": "Agile marine engineering solutions - production documentation, structural calculations, and on-site support for ship design offices and shipyards."
+  },
+  "navigation": {
+    "logo": "Spectra Naval",
+    "links": [
+      { "text": "About", "href": "#about" },
+      { "text": "Services", "href": "#services" },
+      { "text": "Why Us", "href": "#why-us" },
+      { "text": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "title": "Marine Engineering Services<br>Fast, Reliable, On-Time",
+    "subtitle": "Production documentation, structural calculations, and on-site support for ship design offices, shipyards, and vessel owners",
+    "cta": "Discuss Your Project"
+  },
+  "about": {
+    "title": "Experienced Team, Agile Approach",
+    "paragraphs": [
+      "We are a specialized marine engineering team based in Poland, serving clients across Europe. With extensive experience in ship design offices, shipyards, and with ship owners in Poland, UK, and Norway, we understand the demands of marine projects.",
+      "Our small team structure means direct communication, faster decisions, and personal commitment to quality. We're available for both office-based documentation work and on-site surveys and supervision."
+    ]
+  },
+  "services": {
+    "title": "What We Do",
+    "items": [
+      {
+        "title": "Production Documentation",
+        "description": "Complete technical documentation preparation for ship construction and repair projects. Detailed drawings, specifications, and manufacturing documentation for shipyards and production teams.",
+        "cta": "Get Quote"
+      },
+      {
+        "title": "Structural Calculations",
+        "description": "Class-approved structural analysis and calculations for marine structures. Compliance with classification society requirements and marine engineering standards.",
+        "cta": "Get Quote"
+      },
+      {
+        "title": "On-Site Engineering Support",
+        "description": "Survey work, site supervision, and technical support during construction, refit, or mobilization projects. Flexible deployment from days to weeks.",
+        "cta": "Get Quote"
+      },
+      {
+        "title": "Refit Mobilization Projects",
+        "description": "Specialized engineering for vessel mobilizations including underwater cable fixing operations and offshore support vessel conversions.",
+        "cta": "Get Quote"
+      },
+      {
+        "title": "New Builds",
+        "description": "Complete engineering support for newbuild projects from concept to delivery. Design development, class approval documentation, and construction oversight for marine vessels and structures.",
+        "cta": "Get Quote"
+      },
+      {
+        "title": "Project Management & Consulting",
+        "description": "Strategic project management and technical consulting for marine engineering initiatives. Budget planning, schedule coordination, and technical advisory services for shipyards and vessel operators.",
+        "cta": "Get Quote"
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Work With Us",
+    "benefits": [
+      {
+        "title": "Fast Turnaround",
+        "description": "Small team means quick decisions and faster project completion without corporate bureaucracy."
+      },
+      {
+        "title": "Flexible Engagement",
+        "description": "Available for short-term projects, ongoing support, or emergency capacity. Office work or on-site presence as needed."
+      },
+      {
+        "title": "Quality Focus",
+        "description": "Senior engineer oversight on all deliverables. Class society standards compliance. Zero-compromise on technical accuracy."
+      },
+      {
+        "title": "Competitive Rates",
+        "description": "Lower overhead than large offices, better value without sacrificing quality. Transparent pricing, no hidden costs."
+      },
+      {
+        "title": "Available for Site Work",
+        "description": "Not just office-based - we travel for surveys, inspections, and construction supervision when projects require hands-on presence."
+      },
+      {
+        "title": "Specialized Experience",
+        "description": "Deep expertise in PSV, ferries, and offshore support vessels. Understanding of both design office and shipyard perspectives."
+      }
+    ]
+  },
+  "vessels": {
+    "title": "Vessel Specialization",
+    "intro": "We focus on vessel types where our experience delivers the most value:",
+    "types": [
+      "Platform Supply Vessels (PSV)",
+      "Passenger and RoRo Ferries",
+      "Offshore Support Vessels",
+      "Cable Laying Vessels",
+      "General Cargo Vessels",
+      "Marine Structures and Equipment"
+    ],
+    "outro": "Have a different vessel type? Contact us - we may be able to help or recommend trusted partners."
+  },
+  "process": {
+    "title": "How We Work",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Discuss Your Needs",
+        "description": "Brief conversation to understand project scope, timeline, and technical requirements."
+      },
+      {
+        "number": "2",
+        "title": "Clear Proposal",
+        "description": "Detailed quote with scope, deliverables, timeline, and costs. No surprises."
+      },
+      {
+        "number": "3",
+        "title": "Efficient Execution",
+        "description": "Regular updates, proactive communication, on-time delivery. Your project gets personal attention."
+      },
+      {
+        "number": "4",
+        "title": "Quality Delivery",
+        "description": "Thorough review before handover. Complete documentation. Support after delivery if needed."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Discuss Your Project",
+    "intro": "Whether you need production documentation support, structural calculations, or on-site engineering presence, we're ready to help. Contact us to discuss your project requirements.",
+    "form": {
+      "labels": {
+        "name": "Name",
+        "company": "Company",
+        "email": "Email",
+        "phone": "Phone (optional)",
+        "projectType": "Project Type",
+        "message": "Message"
+      },
+      "projectTypes": [
+        { "value": "", "text": "Select project type..." },
+        { "value": "production-documentation", "text": "Production Documentation" },
+        { "value": "structural-calculations", "text": "Structural Calculations" },
+        { "value": "site-work", "text": "Site Work" },
+        { "value": "refit-project", "text": "Refit Project" },
+        { "value": "other", "text": "Other" }
+      ],
+      "submit": "Send Message"
+    },
+    "alternativeContact": {
+      "title": "Alternative Contact",
+      "email": "contact@spectranaval.com",
+      "linkedIn": "https://linkedin.com/company/spectra-naval",
+      "linkedInText": "linkedin.com/company/spectra-naval",
+      "note": "We typically respond within 24 hours on business days."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Spectra Naval. All rights reserved.",
+    "tagline": "Agile Marine Engineering Solutions",
+    "email": "contact@spectranaval.com"
+  },
+  "validation": {
+    "fillAllFields": "Please fill in all required fields.",
+    "invalidEmail": "Please enter a valid email address."
+  }
+}
